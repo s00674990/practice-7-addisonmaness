@@ -69,3 +69,16 @@ nav ul {
     font-weight: 600;
     text-decoration: none;
 }
+
+.site-header, .hero, .people, .site-footer {
+    grid-column: span 2;
+}
+
+.records, .studio, .people {
+    padding: 64px 32px;
+}
+
+h2 {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
