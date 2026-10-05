@@ -5,6 +5,8 @@
 }
 
 body {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
     background: #f4f1ea;
     color: #111111;
     font-family: 'Work Sans', sans-serif;
