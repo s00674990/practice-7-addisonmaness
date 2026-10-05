@@ -42,3 +42,28 @@ nav ul {
     gap: 32px;
     list-style: none;
 }
+
+.hero {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    min-height: 520px;
+    padding: 48px 32px;
+    background: #0b5cad;
+    color: #f4f1ea;
+    text-align: center;
+}
+
+.hero h1 {
+    font-size: 96px;
+}
+
+.button {
+    padding: 12px 22px;
+    background: #f2b705;
+    color: #111111;
+    font-weight: 600;
+    text-decoration: none;
+}
