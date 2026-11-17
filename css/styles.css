@@ -21,7 +21,7 @@ h1, h2, h3, .logo, .swatch {
     line-height: 1;
 }
 
-.site-header {
+.site-header, .site-footer {
     display: flex;
     justify-content: space-between;
     align-items: center;
