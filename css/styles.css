@@ -112,3 +112,15 @@ h3 {
 .info {
     flex: 1;
 }
+
+.studio {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    
+}
+
+.studio img {
+    width: 100%;
+    height: auto;
+}
